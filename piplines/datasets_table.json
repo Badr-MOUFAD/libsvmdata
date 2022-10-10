@@ -1,0 +1,70 @@
+{
+    "datasets": [
+        {
+            "name": "Golub1999",
+            "description": " Gene expression in leukemia patients ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Golub1999.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Golub1999.rds"
+        },
+        {
+            "name": "Singh2002",
+            "description": " Case-control study of prostate cancer ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Singh2002.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Singh2002.rds"
+        },
+        {
+            "name": "Gode2011",
+            "description": " Surface sensing in swarming bacteria ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Gode2011.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Gode2011.rds"
+        },
+        {
+            "name": "Scholtens2004",
+            "description": " Response of ER+ breast cancer cell lines to estrogen ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Scholtens2004.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Scholtens2004.rds"
+        },
+        {
+            "name": "pollution",
+            "description": " Air pollution and mortality in US metropolitan areas ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/pollution.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/pollution.rds"
+        },
+        {
+            "name": "whoari",
+            "description": " World Health Organization study on acute respiratory illnesses ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/whoari.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/whoari.rds"
+        },
+        {
+            "name": "bcTCGA",
+            "description": " Breast cancer gene expression data from The Cancer Genome Atlas ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/bcTCGA.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/bcTCGA.rds"
+        },
+        {
+            "name": "Koussounadis2014",
+            "description": " Carbotax study of ovarian tumor growth ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Koussounadis2014.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Koussounadis2014.rds"
+        },
+        {
+            "name": "Scheetz2006",
+            "description": " Gene expression in the mammalian eye ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Scheetz2006.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Scheetz2006.rds"
+        },
+        {
+            "name": "Ramaswamy2001",
+            "description": " Multiclass cancer prediction involving 14 tumor types ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Ramaswamy2001.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Ramaswamy2001.rds"
+        },
+        {
+            "name": "Shedden2008",
+            "description": " Survival analysis of lung cancer patients ",
+            "url": "https://myweb.uiowa.edu/pbreheny/data/Shedden2008.html",
+            "download_url": "https://s3.amazonaws.com/pbreheny-data-sets/Shedden2008.rds"
+        }
+    ]
+}
